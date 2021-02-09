@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\alt\source\repos\test\test.cpp(18,67): warning C4477: "scanf": в строке форматирования "%lf" требуется аргумент типа "double *", но вариативный аргумент "1" имеет тип "float *"
+C:\Users\alt\source\repos\test\test.cpp(18,67): message : рекомендуется использовать "%f" в строке форматирования
+C:\Users\alt\source\repos\test\test.cpp(33,67): warning C4477: "scanf": в строке форматирования "%lf" требуется аргумент типа "double *", но вариативный аргумент "1" имеет тип "float *"
+C:\Users\alt\source\repos\test\test.cpp(33,67): message : рекомендуется использовать "%f" в строке форматирования
+  test.vcxproj -> C:\Users\alt\source\repos\test\Debug\test.exe
